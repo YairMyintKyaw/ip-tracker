@@ -102,7 +102,7 @@ const App = () => {
             </div>
           </div>
         </div>
-        <Map lat={location.lat} lng={location.lng} />
+        <Map lat={location.lat} lng={location.lng} city={location.city} />
       </div>
     </>
   );
