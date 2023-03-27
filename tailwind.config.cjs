@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        desktop: 'url("./src/images/pattern-bg-desktop.png")',
-        mobile: 'url("./src/images/pattern-bg-mobile.png")',
+        desktop: 'url("./assets/pattern-bg-desktop.png")',
+        mobile: 'url("./assets/pattern-bg-mobile.png")',
       },
       fontFamily: {
         primaryFont: "Rubik",
